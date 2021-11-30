@@ -1,0 +1,10 @@
+lesson\system_stm32f4xx.o: ../Core/Src/system_stm32f4xx.c
+lesson\system_stm32f4xx.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
+lesson\system_stm32f4xx.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f407xx.h
+lesson\system_stm32f4xx.o: E:\Keil_v5\ARM\PACK\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm4.h
+lesson\system_stm32f4xx.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+lesson\system_stm32f4xx.o: E:\Keil_v5\ARM\PACK\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h
+lesson\system_stm32f4xx.o: E:\Keil_v5\ARM\PACK\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h
+lesson\system_stm32f4xx.o: E:\Keil_v5\ARM\PACK\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h
+lesson\system_stm32f4xx.o: E:\Keil_v5\ARM\PACK\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h
+lesson\system_stm32f4xx.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
